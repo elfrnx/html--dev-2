@@ -15,7 +15,7 @@
         <li>Terminal</li>
     </ul>
 
-    </li>
+</li>
     <li>Dizi
         <br>
         <ul>
